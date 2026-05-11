@@ -1,0 +1,29 @@
+{
+  "CONFIG_VERSION": 1,
+  "effectSettings": {
+    "shinyBoostMultiplier": 4.0,
+    "superShinyBoostMultiplier": 8.0,
+    "ultraShinyBoostMultiplier": 12.0,
+    "uncommonBoostMultiplier": 16.0,
+    "rareBoostMultiplier": 16.0,
+    "ultraRareBoostMultiplier": 16.0,
+    "ultraBeastBoostMultiplier": 10.0,
+    "paradoxBoostMultiplier": 10.0,
+    "legendaryBoostMultiplier": 10.0,
+    "mythicalBoostMultiplier": 10.0,
+    "effectDistanceBlocks": 80.0
+  },
+  "durationSettings": {
+    "shinyBoostDuration": 6000,
+    "superShinyBoostDuration": 6000,
+    "ultraShinyBoostDuration": 6000,
+    "uncommonBoostDuration": 6000,
+    "rareBoostDuration": 6000,
+    "ultraRareBoostDuration": 6000,
+    "repelDuration": 6000,
+    "ultraBeastBoostDuration": 6000,
+    "paradoxBoostDuration": 6000,
+    "legendaryBoostDuration": 6000,
+    "mythicalBoostDuration": 6000
+  }
+}

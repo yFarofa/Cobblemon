@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"cobblemonexpall:exp_all"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:poke_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

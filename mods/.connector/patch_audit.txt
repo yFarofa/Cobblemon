@@ -1,0 +1,11 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 0 (1 ignored)
+Success rate: .00%        Accuracy: .00%
+=============================================
+
+=============== Failed mixins ===============
+(ignored) maxigregrze/cobblesafari/mixin/JigsawStructureMixin cobblesafari$unlimitCodecRange(IILcom/llamalad7/mixinextras/injector/wrapoperation/Operation;)Lcom/mojang/serialization/Codec;
+=============================================
+

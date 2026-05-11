@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblemonexpall:exp_all"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:exp_share"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"handcrafted:golden_thick_pot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"lumymon:faded_letter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:black_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:purple_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:cyan_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:light_gray_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:gray_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:white_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:red_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_smartphone:blue_smartphone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushed_raw_zinc"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

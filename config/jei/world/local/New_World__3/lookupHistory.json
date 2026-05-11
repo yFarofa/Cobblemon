@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mega_showdown:rusted_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mythsandlegends:rusted_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushed_raw_zinc"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:asurine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:zinc_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:zinc_coinstack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:zinc_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

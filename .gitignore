@@ -1,0 +1,24 @@
+# 1. Ignora todos os arquivos
+*
+
+# 2. Abre exceção para o arquivo de configuração do git
+!.gitignore
+
+# 3. Abre exceção para as PASTAS (o segredo é a barra no final)
+# Isso permite que o Git "entre" nelas para procurar arquivos
+!mods/
+!config/
+!datapacks/
+!resourcepacks/
+!shaderpacks/
+
+# 4. Abre exceção para o CONTEÚDO das pastas
+# Sem isso, o Git vê a pasta mas ignora o que está dentro
+!mods/**
+!config/**
+!datapacks/**
+!resourcepacks/**
+!shaderpacks/**
+
+mods/Cobblemon-neoforge-1.7.3+1.21.1.jar
+resourcepacks/JigglyRadio.zip

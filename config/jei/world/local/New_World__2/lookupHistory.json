@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_enchantment_industry:experience"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:experience_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:experience_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diamond"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:rusted_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mythsandlegends:rusted_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

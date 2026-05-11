@@ -1,0 +1,5 @@
+["Boss Capture Settings"]
+	#Whether to prevent Boss Pokémon from being captured
+	preventBossCapture = true
+	#Whether to display the capture prevention message
+	showCaptureMessage = true
